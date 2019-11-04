@@ -1,0 +1,16 @@
+{
+  "name": "free-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d startbootstrap-agency-gh-pages"
+  },
+  "keywords": [],
+  "author": "WIsam Basheir",
+  "license": "ISC",
+  "homepage": "http://wisam450.github.io/freeW",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
